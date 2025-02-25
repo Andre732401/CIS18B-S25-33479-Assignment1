@@ -1,1 +1,2 @@
-# CIS18B-S25-33479-Assignment1
+How to run BankAccount.java
+1. Select an option from 1-5
